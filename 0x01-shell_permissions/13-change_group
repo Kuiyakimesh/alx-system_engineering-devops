@@ -1,2 +1,2 @@
 #!/bin/bash
-chrgp school hello
+sudo ./13-change_group
